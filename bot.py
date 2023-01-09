@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @mrmalikoffl
 
 import os
 import asyncio
